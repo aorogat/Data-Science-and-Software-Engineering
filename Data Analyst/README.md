@@ -16,7 +16,7 @@ In this level, I finalize the Python programming language by going through its d
 #### 1- Descriptive Statistics by Python [\[Youtube Playlist\]](https://www.youtube.com/watch?v=ZmSVoAyY1LM&list=PL73bE5x5W-ICemDprdzo0HibsFiUQIEM5)
 This is the first version of Descriptive analysis courses that is enough for Junior Data analysts. Seniors Data analysts must learn more about multivariate statistics. 
 #### 2- Data Cleaning by Python [\[Youtube Playlist\]]()
-Usually, the data you are working with having troubles as missing values and outliers. One of your tasks is to be able to clean the data before analysis.
+Usually, the data you are working with having troubles as typos, missing values and outliers. One of your tasks is to be able to clean the data before analysis.
 ## Data Acquisition series
 Data acquisition means reading the data from its source. Since Data analyst usually works on companies that have their data stored in a database, Data Analyst recruiters expect your ability to read such data from their database. 
 #### 1- Database Level (1) – SQL - Python/SQL [\[Youtube Playlist\]]()
