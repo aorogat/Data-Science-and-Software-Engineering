@@ -34,7 +34,7 @@ One of the following courses is enough. These are the programs that help you in 
 # Libraries
 During the above courses, you have to finish the following libraries. Although the lessons of such libraries are distributed across these courses, I also added them to separated playlists to be easy for you to return to them anytime.
 #### Matplotlib [\[Youtube Playlist\]]()
-#### Numpy [\[Youtube Playlist\]](Python: Numpy: https://www.youtube.com/playlist?list=PL73bE5x5W-IBnRfesDLHH9GpuPDfl1N-u)
+#### Numpy [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IBnRfesDLHH9GpuPDfl1N-u)
 #### Pandas [\[Youtube Playlist\]]()
 
 
