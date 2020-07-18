@@ -4,7 +4,7 @@ In this section, I show the required skills to be a Data Analyst. All the course
 
 ## Programming series
 #### 1- Programming Level (0) [\[Youtube Playlist\]](https://www.youtube.com/watch?v=yZ4zTapHSRI&list=PL73bE5x5W-IDgkSxUQx9GCv0vBQPjBNuJ)
-In this level, you will learn the fundamental of programming in general without writing specific programming language codes. The lessons start by defining the *Problem*, *Computational Problem* and *Algorithm*. After that, you will learn how to write algorithms by *Pseudo-code* and *Flowchart*. During that you will learn the fundamental terminologies for programmings like *Statements*, *Expressions* and *Boolean Expressions* and different statements as *If*, *For-Loop*, *While-Loop* and *Functions*. In the end, you will be able to know what you need to learn programming (e.g. *IDE*) and able to choose the suitable programming language for your needs.
+In this level, you will learn the fundamental of programming in general without writing specific programming language codes. At the end, you know what is required to learn any programming language (e.g. concepts and tools[IDE]) and able to choose the suitable programming language for your needs.
 
 #### 2- Python - Level (1), Basics [\[Youtube Playlist\]](https://www.youtube.com/watch?v=M1m9rtZYN-4&list=PL73bE5x5W-ICe8Wb9bFK85FFFGXbNtMx5)
 In this level, you will apply all the concepts of programming level 0. At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
