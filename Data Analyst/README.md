@@ -1,5 +1,5 @@
 # Data Analyst
-In this section, I show the required skills to be a Data Analyst. All the courses are in Arabic.
+The figure below shows the required skills to be a Data Analyst. Each rectangle in the figure has a crossponding course where all the courses are in Arabic.
 ![Data Analysis](DataAnalyst.png)
 
 ## Programming series
