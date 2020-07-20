@@ -14,7 +14,7 @@ This level only has the lessons of Object-Oriented Programming  (OOP) which is n
 In this level, I finalize the Python programming language by going through its documentation and teach all missed points and tricks.
 ## Analysis series
 #### 1- Descriptive Statistics by Python [\[Youtube Playlist\]](https://www.youtube.com/watch?v=ZmSVoAyY1LM&list=PL73bE5x5W-ICemDprdzo0HibsFiUQIEM5)
-This is the first version of Descriptive analysis courses that is enough for Junior Data analysts. Seniors Data analysts must learn more about multivariate statistics. 
+This is the first version of Descriptive analysis courses that is enough for Junior Data analysts. Seniors Data analysts must learn more about exploratory data analysis, confirmatory data analysis and multivariate statistics. 
 #### 2- Data Cleaning by Python [\[Youtube Playlist\]]()
 Usually, the data you are working with having troubles as typos, missing values and outliers. One of your tasks is to be able to clean the data before analysis.
 ## Data Acquisition series
