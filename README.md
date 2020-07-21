@@ -17,11 +17,18 @@ In this tutorial, you will discover several job titles in the domain of data sci
 ##### a) Front End Developer
 ##### b) Back End Developer
 ##### c) Full Stack Developer
-### 3- Software Engineer 
-### 4- Embedded Software Engineer 
-### 5- Quality Assurance Engineer (Tester)
-### 6- DevOps Engineer
-### 7- Software Architect
-### 8- Sales Engineer
+### 3- Mobile Developer
+##### a) Native Mobile App Developer
+###### . Android
+###### . IOS
+###### . Cross Platform
+##### b) Web Mobile App Developer
+##### c) Hypred Mobile App Developer
+### 4- Software Engineer 
+### 5- Embedded Software Engineer 
+### 6- Quality Assurance Engineer (Tester)
+### 7- DevOps Engineer
+### 8- Software Architect
+### 9- Sales Engineer
 ## Note:
 Sometimes other job titles are employed to represent the same one from the aforementioned list or maybe changed a little bit to add a required specific skill to a particular job title.
