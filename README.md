@@ -24,7 +24,7 @@ In this tutorial, you will discover several job titles in the domain of data sci
 ###### . IOS
 ###### . Cross Platform
 ##### b) Web Mobile App Developer
-##### c) Hypred Mobile App Developer
+##### c) Hybrid Mobile App Developer
 ### 4- Software Engineer 
 ### 5- Embedded Software Engineer 
 ### 6- Quality Assurance Engineer (Tester)
