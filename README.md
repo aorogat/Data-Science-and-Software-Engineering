@@ -20,9 +20,7 @@ In this tutorial, you will discover several job titles in the domain of data sci
 ##### c) Full Stack Developer
 ### 3- Mobile Developer
 ##### a) Native Mobile App Developer
-###### . Android
-###### . IOS
-###### . Cross Platform
+Android, IOS and Cross Platform.
 ##### b) Web Mobile App Developer
 ##### c) Hybrid Mobile App Developer
 ### 4- Software Engineer 
