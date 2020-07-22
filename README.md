@@ -23,11 +23,12 @@ In this tutorial, you will discover several job titles in the domain of data sci
 * ##### Web Mobile App Developer
 * ##### Hybrid Mobile App Developer
 ### 4- Software Engineer 
-### 5- Embedded Software Engineer 
-### 6- Quality Assurance Engineer (Tester)
-### 7- DevOps Engineer
-### 8- Software Architect
-### 9- Sales Engineer
+* ##### Software Engineer 
+* ##### Embedded Software Engineer 
+* ##### Software Architect
+### 5- Quality Assurance Engineer (Tester)
+### 6- DevOps Engineer
+### 7- Sales Engineer
 ## Note:
 Sometimes other job titles are employed to represent the same one from the aforementioned list or maybe changed a little bit to add a required specific skill to a particular job title.
 For example, Embedded Software Engineer is  Software Engineer who is able to work with embedded systems. 
