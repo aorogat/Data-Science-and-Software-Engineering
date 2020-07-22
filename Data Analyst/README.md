@@ -5,7 +5,7 @@ Data analysis is the process of collecting, cleaning, transforming and visualiz
 
 ## Programming series
 #### 1- Programming Level (0) [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDgkSxUQx9GCv0vBQPjBNuJ)
-In this level, you will learn the fundamental of programming in general without writing specific programming laInuage codes. In the end, you know what is required to learn any programming language (e.g. concepts and tools[IDE]) and able to choose the suitable programming language for your needs.
+In this level, you will learn the fundamental of programming in general without writing specific programming language codes. After that course, you will have enough knowledge about what is meant by a programming language (e.g. concepts and tools[IDE]) and choose the suitable programming language for your needs.
 
 #### 2- Python - Level (1), Basics [\[Youtube Playlist\]](https://www.youtube.com/watch?v=M1m9rtZYN-4&list=PL73bE5x5W-ICe8Wb9bFK85FFFGXbNtMx5)
 In this level, you will apply all the concepts of programming level 0. At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
