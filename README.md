@@ -5,8 +5,8 @@ For example, Data Analysts are the persons who collect, clean, visualize data an
 In this tutorial, you will discover several job titles in the domain of data science and software engineering. While Java programming language is used for the lessons of software engineering, Python programming language is used for the data science courses. All the courses are recorded by an Arabic speaker.
 # Data Science and Engineering 
 ### 1- Data Analyst
-##### a) [Data Analyst](https://github.com/aorogat/Data-Science-and-Software-Engineering/tree/master/Data%20Analyst)
-##### b) Big Data Analyst
+* ##### [Data Analyst](https://github.com/aorogat/Data-Science-and-Software-Engineering/tree/master/Data%20Analyst)
+* ##### Big Data Analyst
 ### 2- Data Scientist
 ### 3- Machine Learning Engineer
 ### 4- Data Engineer
@@ -15,14 +15,13 @@ In this tutorial, you will discover several job titles in the domain of data sci
 # Software Engineering 
 ### 1- Developer
 ### 2- Web Developer
-##### a) Front End Developer
-##### b) Back End Developer
-##### c) Full Stack Developer
+* ##### Front End Developer
+* ##### Back End Developer
+* ##### Full Stack Developer
 ### 3- Mobile Developer
-##### a) Native Mobile App Developer
-Android, IOS and Cross Platform.
-##### b) Web Mobile App Developer
-##### c) Hybrid Mobile App Developer
+* ##### Native Mobile App Developer [Android, IOS and Cross Platform.]
+* ##### Web Mobile App Developer
+* ##### Hybrid Mobile App Developer
 ### 4- Software Engineer 
 ### 5- Embedded Software Engineer 
 ### 6- Quality Assurance Engineer (Tester)
