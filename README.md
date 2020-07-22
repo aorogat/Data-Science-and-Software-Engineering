@@ -31,3 +31,4 @@ Android, IOS and Cross Platform.
 ### 9- Sales Engineer
 ## Note:
 Sometimes other job titles are employed to represent the same one from the aforementioned list or maybe changed a little bit to add a required specific skill to a particular job title.
+For example, Embedded Software Engineer is  Software Engineer who is able to work with embedded systems. 
