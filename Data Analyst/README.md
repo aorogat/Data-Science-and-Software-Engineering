@@ -30,8 +30,6 @@ One of the following courses is enough. These are the programs that help you in 
 #### 1- Tabulae
 #### 2- Power bi
 
-## Big Data series
-
 # Libraries
 During the above courses, you have to finish the following libraries. Although the lessons of such libraries are distributed across these courses, I also added them to separated playlists to be easy for you to return to them anytime.
 #### Matplotlib [\[Youtube Playlist\]]()
