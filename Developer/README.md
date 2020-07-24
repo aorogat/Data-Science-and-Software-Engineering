@@ -37,10 +37,10 @@ In this level, you will go through Java documentation. After that you will learn
 After this level, you will be able to develop desktop applications. 
 
 #### 6- Java - Applied Data Structure [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-ICLzNwt5aAjnstOlqNgtqMJ)
-In this level, you will learn the main data structures and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their crossponding operations. 
+In this level, you will learn the main data structures like Linear, Tree and Graph and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their crossponding operations. 
 ## Data Acquisition
 Data acquisition means reading the data from its source. Since Developers usually work on companies that have their data stored in databases, Developer recruiters expect your ability to read such data from their database. 
 #### 1- Database Level (1) – SQL - Java/SQL [\[Youtube Playlist\]]()
-Databases courses usually have diverse topics for different skills such as Data analysts, Developers and Data Engineers. In this course, you will just learn the skills that help you to create, database and access the data you need from the database. 
+Databases courses usually have diverse topics for different skills such as Data analysts, Developers and Data Engineers. In this course, you will just learn the skills that help you to create database and access the data you need from the database.
 #### 2- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
 Sometimes data are not stored in a relational database, however, is stored in files with specific formats like XML, JSON and so on. Developers are expected to be able to handle such files.
