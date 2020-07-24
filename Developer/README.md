@@ -28,10 +28,13 @@ In this level, you will go through Java documentation. After that you will learn
 * Strings, from encodind to manipulation. 
 * Math Class, System class, Object class, and some other important classes. 
 * Streams and Files
-* Java Virtual Machine (JVM) and Memory Management. 
+* Generics
+* Java Virtual Machine (JVM) and Memory Management.
+* Multithreading and Synchronization
 * What is after JDK8
 * Some tricks
 * J2SE packages in general.
+* J2EE frameworks in general and RESTful Web Service.
 
 #### 5- Java - GUI [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
 After this level, you will be able to develop desktop applications. 
@@ -44,3 +47,6 @@ Data acquisition means reading the data from its source. Since Developers usuall
 Databases courses usually have diverse topics for different skills such as Data analysts, Developers and Data Engineers. In this course, you will just learn the skills that help you to create database and access the data you need from the database.
 #### 2- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
 Sometimes data are not stored in a relational database, however, is stored in files with specific formats like XML, JSON and so on. Developers are expected to be able to handle such files.
+
+## Useful Tools
+#### 1- Git and Github
