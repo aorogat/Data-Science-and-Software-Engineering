@@ -26,6 +26,7 @@ In this level, you will go through Java documentation. After that you will learn
 * Try and Catch 
 * Wrapping Classes
 * Strings, from encodind to manipulation. 
+* Regular Expressions 
 * Math Class, System class, Object class, and some other important classes. 
 * Streams and Files
 * Generics
