@@ -14,6 +14,7 @@ In this tutorial, you will discover several job titles in the domain of data sci
 
 # Software Engineering 
 ### 1- Developer
+* ##### [Java Developer](https://github.com/aorogat/Data-Science-and-Software-Engineering/blob/master/Developer/README.md)
 ### 2- Web Developer
 * ##### Front End Developer
 * ##### Back End Developer
