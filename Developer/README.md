@@ -34,7 +34,6 @@ In this level, you will go through Java documentation. After that you will learn
 * What is after JDK8
 * Some tricks
 * J2SE packages in general.
-* J2EE frameworks in general and RESTful Web Service.
 
 #### 5- Java - GUI [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
 After this level, you will be able to develop desktop applications. 
@@ -50,3 +49,8 @@ Sometimes data are not stored in a relational database, however, is stored in fi
 
 ## Useful Tools
 #### 1- Git and Github
+
+## Advanced topics
+#### 1- J2EE frameworks in general and RESTful Web Service.
+#### 2- Java Persistence APIs(JPA) and Hibernate
+#### 3- Network Programming (Socket, RMI)
