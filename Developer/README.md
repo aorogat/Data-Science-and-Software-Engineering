@@ -91,3 +91,5 @@ Sometimes data are not stored in a relational database, however, is stored in fi
 #### 2- J2EE frameworks in general and RESTful Web Service.
 #### 3- Java Persistence APIs(JPA) and Hibernate
 
+# Prepare your CV
+* In parralel to the technical skills illusted here, you have to enhace your ability in English, Time Managements, Team Work, Report Preparation and CV writing. Good Luck!!
