@@ -43,7 +43,15 @@ In this level, I finalize the Python programming language by going through its d
 
 ## Analysis series
 #### 1- Descriptive Statistics by Python [\[Youtube Playlist\]](https://www.youtube.com/watch?v=ZmSVoAyY1LM&list=PL73bE5x5W-ICemDprdzo0HibsFiUQIEM5)
-This is the first version of Descriptive analysis courses that is enough for Junior Data analysts. Seniors Data analysts must learn more about exploratory data analysis, confirmatory data analysis and multivariate statistics. 
+This is the first version of Descriptive analysis courses that is enough for Junior Data analysts. Seniors Data analysts must learn more about exploratory data analysis, confirmatory data analysis, data mining and multivariate statistics. 
+The topics covered are 
+`Centeral Tendancy`, 
+`Spread measures: SD, Range, Quartiles and Box Plot`, 
+`Districution and Histogram`, 
+`Skewness, Kurtosis and Outliers`, 
+`Data: Uni-Bi-Multivariate`, 
+`Data: Qualitative and Quantitative`, 
+`Correlation`.
 #### 2- Data Cleaning by Python [\[Youtube Playlist\]]()
 Usually, the data you are working with having troubles as typos, missing values and outliers. One of your tasks is to be able to clean the data before analysis.
 ## Data Acquisition series
