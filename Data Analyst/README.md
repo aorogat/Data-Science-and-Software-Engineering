@@ -55,7 +55,7 @@ The topics covered are
 #### 2- Data Cleaning by Python [\[Youtube Playlist\]]()
 Usually, the data you are working with having troubles as typos, missing values and outliers. One of your tasks is to be able to clean the data before analysis.
 #### 3- Data Visualization by Python [\[Youtube Playlist\]]()
-Although you have studies some basic data visualization through the *_Descriptive Statistics by Python_* course, there are more topics about data visualization that are covred here.
+Although you have studies some basic data visualization through the *__Descriptive Statistics by Python__* course, there are more topics about data visualization that are covered here.
 ## Data Acquisition series
 Data acquisition means reading the data from its source. Since Data analyst usually works on companies that have their data stored in a database, Data Analyst recruiters expect your ability to read such data from their database. 
 #### 1- Database Level (1) – SQL - Python/SQL [\[Youtube Playlist\]]()
