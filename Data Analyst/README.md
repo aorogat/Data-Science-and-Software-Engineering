@@ -65,4 +65,4 @@ During the above courses, you have to finish the following libraries. Although t
 #### Pandas [\[Youtube Playlist\]]()
 
 # Prepare your CV
-* In parralel to the technical skills illusted here, you have to enhace your ability in English, Presentations, Storytelling, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
+* In parallel to the technical skills illustrated here, you have to enhace your ability in English, Presentations, Storytelling, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
