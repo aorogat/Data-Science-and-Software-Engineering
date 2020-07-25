@@ -12,27 +12,31 @@ In this level, you will apply all the concepts of programming level 0. At the en
 
 #### 3- Java - Level (2), OOP [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDXOPAssRtlfJzh_Dbl9wxL)
 In this level, you will learn the concepts of Object-Oriented Programming (OOP) to be able to organize larger projects. These concepts are 
-* Classes and Objects  * Encapsulation 
-* Composition  * Inheritance
-* Casting  * Polymorphism 
-* Abstraction * Interfaces
+* Classes and Objects  
+* Encapsulation 
+* Composition  
+* Inheritance
+* Casting  
+* Polymorphism 
+* Abstraction 
+* Interfaces
 
 There is a project at the end in which you will apply all the concepts of OOP. 
 
 #### 4- Java - Level (3), Tricks [\[Youtube Playlist\]]()
 In this level, you will go through Java documentation. After that, you will learn the following 
-* Try and Catch 
-* Wrapping Classes
-* Strings, from encoding to manipulation. 
-* Regular Expressions 
-* Math Class, System class, Object class, and some other important classes. 
-* Streams and Files
-* Generics
-* Java Virtual Machine (JVM) and Memory Management.
-* Multithreading and Synchronization
-* What is after JDK8
-* Some tricks
-* J2SE packages in general.
+`Try and Catch`, 
+`Wrapping Classes`, 
+`Strings, from encoding to manipulation.`, 
+`Regular Expressions`, 
+`Math Class, System class, Object class, and some other important classes.`, 
+`Streams and Files`, 
+`Generics`, 
+`Java Virtual Machine (JVM) and Memory Management.`, 
+`Multithreading and Synchronization`, 
+`What is after JDK8`, 
+`Some tricks`, 
+`J2SE packages in general.`, 
 
 ## Desktop Applications series
 #### 1- Java - GUI - Swing [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
