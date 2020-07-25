@@ -1,8 +1,9 @@
 [Back](https://github.com/aorogat/Data-Science-and-Software-Engineering/blob/master/README.md)
 # Java Developer
-A Java Developer is responsible for the development of Java-based applications. Because Java is widely used, especially by large companies, everyday roles differ in a wide range of skills. Most of the roles share the skills illustrated below.
+A Java Developer is responsible for the development of Java-based applications. Because Java is widely used, especially by large companies, everyday roles differ in a wide range of skills. Most of the roles share the skills illustrated below. Each rectangle in the figure has a corresponding course where all the courses are in Arabic.
 ![Java Developer](javaDeveloper.png)
 Java Developer differs from Software Engineer. While a Java developer is directed entirely on application development that uses the Java language, a Software Engineer is working on all stages of software engineering like Requirements Analysis, Design, Development, Testing and Maintenance with multiple languages that may not be Java-based.
+
 ## Programming series
 #### 1- Programming Level (0) [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDgkSxUQx9GCv0vBQPjBNuJ)
 In this level, you will learn the fundamental of programming in general without writing specific programming language codes. 
