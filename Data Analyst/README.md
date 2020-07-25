@@ -47,7 +47,7 @@ This is the first version of Descriptive analysis courses that is enough for Jun
 The topics covered are 
 `Central Tendency: Mean, Median and Mode`, 
 `Spread measures: SD, Range, Quartiles and Box Plot`, 
-`Districution and Histogram`, 
+`Distribution and Histogram`, 
 `Skewness, Kurtosis and Outliers`, 
 `Data: Uni-Bi-Multivariate`, 
 `Data: Qualitative and Quantitative`, 
