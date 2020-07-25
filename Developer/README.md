@@ -92,4 +92,4 @@ Sometimes data are not stored in a relational database, however, is stored in fi
 #### 3- Java Persistence APIs(JPA) and Hibernate
 
 # Prepare your CV
-* In parralel to the technical skills illusted here, you have to enhace your ability in English, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
+* In parallel to the technical skills illustrated here, you have to enhace your ability in English, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
