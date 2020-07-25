@@ -22,7 +22,7 @@ In this level, you will apply all the concepts of Procedural Programming.
 These topics are 
 `Writing and reading the data`, 
 `If Statement`, 
-`Swithh Statement`, 
+`Switch Statement`, 
 `For-loop Statement`, 
 `While-loop Statement`, 
 `Arrays`, 
@@ -64,6 +64,7 @@ The topics covered are
 `Components and Containers`, 
 `Layout Managers`, 
 `Event-Driven Programming`, 
+`Listeners`, 
 `Bird's Eye view`,  
 `GUI Builder Tools`,
 `Graphs`.
