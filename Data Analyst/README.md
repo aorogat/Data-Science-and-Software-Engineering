@@ -11,7 +11,7 @@ The topics covered are
 `Computer operations: Read-Processing-Write`, 
 `Algorithms: Pseudo Code and Flowchar`, 
 `Operators`, 
-`Statements and Expressions`,  
+`Statements and Expressions`, 
 `IF-For-While statemets`, 
 `Function and Fuction-calling Statement`, 
 `Programming Languages, Syntax, IDE and Compiler`.
@@ -24,7 +24,7 @@ These topics are
 `If Statement`, 
 `Swithh Statement`, 
 `For-loop Statement`, 
-`While-loop Statement`,  
+`While-loop Statement`, 
 `Arrays`, 
 `Function and Fuction-calling Statement`. 
 At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
@@ -64,4 +64,4 @@ During the above courses, you have to finish the following libraries. Although t
 #### Numpy [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IBnRfesDLHH9GpuPDfl1N-u)
 #### Pandas [\[Youtube Playlist\]]()
 
-
+# Prepare you CV
