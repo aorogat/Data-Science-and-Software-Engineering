@@ -64,4 +64,5 @@ During the above courses, you have to finish the following libraries. Although t
 #### Numpy [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IBnRfesDLHH9GpuPDfl1N-u)
 #### Pandas [\[Youtube Playlist\]]()
 
-# Prepare you CV
+# Prepare your CV
+* In parralel to the technical skills illusted here, you have to enhace your ability in English, Presentations, Storytelling, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
