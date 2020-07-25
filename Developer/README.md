@@ -11,7 +11,7 @@ The topics covered are
 `Computer operations: Read-Processing-Write`, 
 `Algorithms: Pseudo Code and Flowchar`, 
 `Operators`, 
-`Statements and Expressions`,  
+`Statements and Expressions`, 
 `IF-For-While statemets`, 
 `Function and Fuction-calling Statement`, 
 `Programming Languages, Syntax, IDE and Compiler`.
@@ -24,7 +24,7 @@ These topics are
 `If Statement`, 
 `Swithh Statement`, 
 `For-loop Statement`, 
-`While-loop Statement`,  
+`While-loop Statement`, 
 `Arrays`, 
 `Function and Fuction-calling Statement`, 
 `Method Overloading`. 
