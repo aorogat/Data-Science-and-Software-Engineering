@@ -5,22 +5,41 @@ A Java Developer is responsible for the development of Java-based applications. 
 Java Developer differs from Software Engineer. While a Java developer is directed entirely on application development that uses the Java language, a Software Engineer is working on all stages of software engineering like Requirements Analysis, Design, Development, Testing and Maintenance with multiple languages that may not be Java-based.
 ## Programming series
 #### 1- Programming Level (0) [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDgkSxUQx9GCv0vBQPjBNuJ)
-In this level, you will learn the fundamental of programming in general without writing specific programming language codes. After that course, you will have enough knowledge about what is meant by a programming language (e.g. concepts and tools[IDE]) and choose the suitable programming language for your needs.
+In this level, you will learn the fundamental of programming in general without writing specific programming language codes. 
+The topics covered are 
+`Problems and Computational Problems`, 
+`Computer operations: Read-Processing-Write`, 
+`Algorithms: Pseudo Code and Flowchar`, 
+`Operators`, 
+`Statements and Expressions`,  
+`IF-For-While statemets`, 
+`Function and Fuction-calling Statement`, 
+`Programming Languages, Syntax, IDE and Compiler`.
+After that course, you will have enough knowledge about what is meant by a programming language (e.g. concepts and tools[IDE]) and choose the suitable programming language for your needs.
 
 #### 2- Java - Level (1), Basics  [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDK_ksDRHQRDW_7qvUAWgfy)
-In this level, you will apply all the concepts of programming level 0. At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
+In this level, you will apply all the concepts of Procedural Programming. 
+These topics are 
+`Writing and reading the data`, 
+`If Statement`, 
+`Swithh Statement`, 
+`For-loop Statement`, 
+`While-loop Statement`,  
+`Arrays`, 
+`Function and Fuction-calling Statement`, 
+`Method Overloading`. 
+At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
 
 #### 3- Java - Level (2), OOP [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDXOPAssRtlfJzh_Dbl9wxL)
 In this level, you will learn the concepts of Object-Oriented Programming (OOP) to be able to organize larger projects. These concepts are 
-* Classes and Objects  
-* Encapsulation 
-* Composition  
-* Inheritance
-* Casting  
-* Polymorphism 
-* Abstraction 
-* Interfaces
-
+`Classes and Objects`, 
+`Encapsulation`, 
+`Composition`, 
+`Inheritance`, 
+`Casting`, 
+`Polymorphism`, 
+`Abstraction`, 
+`Interfaces`. 
 There is a project at the end in which you will apply all the concepts of OOP. 
 
 #### 4- Java - Level (3), Tricks [\[Youtube Playlist\]]()
@@ -36,19 +55,27 @@ In this level, you will go through Java documentation. After that, you will lear
 `Multithreading and Synchronization`, 
 `What is after JDK8`, 
 `Some tricks`, 
-`J2SE packages in general.`, 
+`J2SE packages in general.`
 
 ## Desktop Applications series
 #### 1- Java - GUI - Swing [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
-After this level, you will be able to develop desktop applications. 
+The topics covered are 
+`Swing Package`, 
+`Components and Containers`, 
+`Layout Managers`, 
+`Event-Driven Programming`, 
+`Bird's Eye view`,  
+`GUI Builder Tools`,
+`Graphs`.
+After this level, you will be able to develop any desktop applications. There are 2 projects at the end, one for GUI design and a simple 2D game to apply on the lessons of Graphs.
 
-#### 2- Java - GUI - Swing [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
+#### 2- Java - GUI - JavaFX [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
 After this level, you will be able to develop desktop applications with more features. 
 
-## Data Acquisition and storage
-Data acquisition means reading the data from its source. Since Developers usually work on companies that have their data stored in databases, Developer recruiters expect your ability to read such data from their database. 
+## Data Acquisition and structure
+While Data acquisition means reading the data from its source, we mean by structure, how to organize such data in memory. Since Developers usually work on companies that have their data stored in databases, Developer recruiters expect your ability to read such data from their database. 
 #### 1- Java - Applied Data Structure [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-ICLzNwt5aAjnstOlqNgtqMJ)
-In this level, you will learn the main data structures like List, Tree and Graph and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their corresponding operations. 
+In this level, you will learn the main data structures like `List`, `Tree`, `Graph`, `Map`, `Set`, `Hashtable`, and `others` and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their corresponding operations. 
 #### 2- Database Level (1) – SQL - Java/SQL [\[Youtube Playlist\]]()
 Databases courses usually have diverse topics for different skills such as Data Analysts, Developers and Data Engineers. In this course, you will just learn the skills that help you to create a database and access the data you need from the database.
 #### 3- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
