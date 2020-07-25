@@ -5,14 +5,42 @@ Data analysis is the process of collecting, cleaning, transforming and visualiz
 
 ## Programming series
 #### 1- Programming Level (0) [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDgkSxUQx9GCv0vBQPjBNuJ)
-In this level, you will learn the fundamental of programming in general without writing specific programming language codes. After that course, you will have enough knowledge about what is meant by a programming language (e.g. concepts and tools[IDE]) and choose the suitable programming language for your needs.
+In this level, you will learn the fundamental of programming in general without writing specific programming language codes. 
+The topics covered are 
+`Problems and Computational Problems`, 
+`Computer operations: Read-Processing-Write`, 
+`Algorithms: Pseudo Code and Flowchar`, 
+`Operators`, 
+`Statements and Expressions`,  
+`IF-For-While statemets`, 
+`Function and Fuction-calling Statement`, 
+`Programming Languages, Syntax, IDE and Compiler`.
+After that course, you will have enough knowledge about what is meant by a programming language (e.g. concepts and tools[IDE]) and choose the suitable programming language for your needs.
 
 #### 2- Python - Level (1), Basics [\[Youtube Playlist\]](https://www.youtube.com/watch?v=M1m9rtZYN-4&list=PL73bE5x5W-ICe8Wb9bFK85FFFGXbNtMx5)
-In this level, you will apply all the concepts of programming level 0. At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
+In this level, you will apply all the concepts of Procedural Programming. 
+These topics are 
+`Writing and reading the data`, 
+`If Statement`, 
+`Swithh Statement`, 
+`For-loop Statement`, 
+`While-loop Statement`,  
+`Arrays`, 
+`Function and Fuction-calling Statement`. 
+At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
+
 #### 3- Python - Level (2), OOP \[Part 1] [\[Youtube Playlist\]](https://www.youtube.com/watch?v=65LBTWC9OUo&list=PL73bE5x5W-ICjN2bL9On_dtReRSBRr8Fz)
-This level only has the lessons of Object-Oriented Programming  (OOP) which is necessary for Data Analyst and Scientist. The remaining concepts of OOP are on another level. 
+This level only has the lessons of Object-Oriented Programming  (OOP) which is necessary for Data Analyst and Scientist. 
+These concepts are 
+`Classes and Objects`, 
+`Encapsulation`, 
+`Composition`, 
+`Inheritance`. 
+The remaining concepts of OOP are on another level. 
+
 #### 4- Python - Level (3), Tricks [\[Youtube Playlist\]](https://www.youtube.com/watch?v=LdUOgE-73To&list=PL73bE5x5W-IAhtvykYAe9T3un76xkexVx)
 In this level, I finalize the Python programming language by going through its documentation and teach all missed points and tricks.
+
 ## Analysis series
 #### 1- Descriptive Statistics by Python [\[Youtube Playlist\]](https://www.youtube.com/watch?v=ZmSVoAyY1LM&list=PL73bE5x5W-ICemDprdzo0HibsFiUQIEM5)
 This is the first version of Descriptive analysis courses that is enough for Junior Data analysts. Seniors Data analysts must learn more about exploratory data analysis, confirmatory data analysis and multivariate statistics. 
