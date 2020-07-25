@@ -9,7 +9,7 @@ In this level, you will learn the fundamental of programming in general without 
 The topics covered are 
 `Problems and Computational Problems`, 
 `Computer operations: Read-Processing-Write`, 
-`Algorithms: Pseudo Code and Flowchar`, 
+`Algorithms: Pseudo Code and Flowchart`, 
 `Operators`, 
 `Statements and Expressions`, 
 `IF-For-While statemets`, 
