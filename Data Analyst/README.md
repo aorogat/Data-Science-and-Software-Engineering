@@ -22,10 +22,9 @@ In this level, you will apply all the concepts of Procedural Programming.
 These topics are 
 `Writing and reading the data`, 
 `If Statement`, 
-`Switch Statement`, 
 `For-loop Statement`, 
 `While-loop Statement`, 
-`Arrays`, 
+`Arrays: List, Tuple, Set, Dictionary`, 
 `Function and Fuction-calling Statement`. 
 At the end of this level, there is a project about ATM which helps you to apply such concepts and think in the level of components (functions).
 
