@@ -1,6 +1,6 @@
 [Back](https://github.com/aorogat/Data-Science-and-Software-Engineering/blob/master/README.md)
 # Data Analyst
-Data analysis is the process of collecting, cleaning, transforming and visualizing the data to find out valuable insights and conclusions to support the decision-makers. Data Analysis conducted by a Data Analyst who receives a business question from his supervisor and generate the figures and tables that support the insights he discovered with regard to that business question.  The figure below shows the required skills to be a Data Analyst. Each rectangle in the figure has a corresponding course where all the courses are in Arabic.
+Data analysis is the process of collecting, cleaning, transforming and visualizing the data to find out valuable insights and conclusions to support the decision-makers. Data Analysis conductes by a Data Analyst who receives a business question from his supervisor and generate the figures and tables that support the insights he discovered with regard to that business question.  The figure below shows the required skills to be a Data Analyst. Each rectangle in the figure has a corresponding course where all the courses are in Arabic.
 ![Data Analysis](DataAnalyst.png)
 
 ## Programming series
