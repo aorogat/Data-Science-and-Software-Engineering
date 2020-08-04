@@ -13,6 +13,10 @@ The figure below illustartes some of the skills for Data Science and Software En
 * ##### Big Data Analyst
 ### 2- Data Scientist
 ### 3- Machine Learning Engineer
+* ##### Machine Learning Engineer
+* ##### Computer Vision Engineer
+* ##### Natural Language Processing (NLP) Engineer
+* ##### Speach Recognition Engineer
 ### 4- Data Engineer
 
 
