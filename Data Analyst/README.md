@@ -50,7 +50,9 @@ The topics covered are
 `Skewness, Kurtosis and Outliers`, 
 `Data: Uni-Bi-Multivariate`, 
 `Data: Qualitative and Quantitative`, 
-`Correlation`.
+`Quantitative Data Association: Correlation`,
+`Qualitative Data Discription: Contingency Table`, 
+`Qualitative Data Association: Odds Ratio(OR)`.
 #### 2- Data Cleaning by Python [\[Youtube Playlist\]]()
 Usually, the data you are working with having troubles as typos, missing values and outliers. One of your tasks is to be able to clean the data before analysis.
 #### 3- Data Visualization by Python [\[Youtube Playlist\]]()
