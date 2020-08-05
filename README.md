@@ -22,7 +22,7 @@ The figure below illustartes some of the skills for Data Science and Software En
 
 # Software Engineering 
 ### 1- Developer
-* ##### [Java Developer](https://github.com/aorogat/Data-Science-and-Software-Engineering/blob/master/Developer/README.md) 《=》 [Who am I?](https://youtu.be/p-yJRJDuKd4)
+* ##### [Java Developer](https://github.com/aorogat/Data-Science-and-Software-Engineering/blob/master/Developer/README.md) 《=》[![icon](images/video-camera-icon.png) Who am I?](https://youtu.be/p-yJRJDuKd4)
 ### 2- Web Developer
 * ##### Front End Developer
 * ##### Back End Developer
