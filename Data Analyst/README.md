@@ -71,7 +71,7 @@ Databases courses usually have diverse topics for different skills such as Devel
 #### 2- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
 Sometimes data are not stored in a relational database, however, is stored in files with specific formats like XML, JSON and so on. Data analysts are expected to be able to handle such files.
 ## Technologies series
-One of the following courses is enough. These are the programs that help you in your work with less programming. I will not record these courses but will give you links to courses in English. 
+One of the following courses is enough. These are the programs that help you in your work with less programming. I will not record these courses but give you links to courses in English. 
 
 #### 1- Tabulae [\[What is it?\]](https://youtu.be/YfE9jBq002s) [\[Edureka Channel \]](https://youtu.be/jj6-0cvcNEA)
 #### 2- Power bi [\[What is it?\]](https://youtu.be/yKTSLffVGbk)[\[Learnit Training Channel\]](https://youtu.be/i3CSD7bMMbg)
