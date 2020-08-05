@@ -77,7 +77,7 @@ One of the following courses is enough. These are the programs that help you in 
 #### 2- Power bi [What is it?](https://youtu.be/yKTSLffVGbk) 》[Learnit Training Channel](https://youtu.be/i3CSD7bMMbg)
 
 # Libraries
-During the above courses, you have to finish the following libraries. Although the lessons of such libraries are distributed across these courses, I also added them to separated playlists to be easy for you to return to them anytime.
+During the above courses, you have to finish the following libraries. Although the lessons of such libraries are distributed across these courses, I also added them to separated playlists to be easy for you to access them anytime.
 #### Matplotlib [\[Youtube Playlist\]]()
 #### Numpy [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IBnRfesDLHH9GpuPDfl1N-u)
 #### Pandas [\[Youtube Playlist\]]()
