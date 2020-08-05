@@ -12,6 +12,10 @@ The figure below illustartes some of the skills for Data Science and Software En
 * ##### [Data Analyst](https://github.com/aorogat/Data-Science-and-Software-Engineering/tree/master/Data%20Analyst) 《=》[![icon](images/video-camera-icon.png) Who am I?](https://youtu.be/Mmtq_xxo8iU)
 * ##### Big Data Analyst
 ### 2- Data Scientist
+* ##### Data Scientist
+* ##### Computer Vision Data Scientist
+* ##### Natural Language (NLP) Data Scientist
+* ##### Speach Recognition Data Scientist
 ### 3- Machine Learning Engineer
 * ##### Machine Learning Engineer
 * ##### Computer Vision Engineer
