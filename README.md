@@ -42,6 +42,8 @@ The figure below illustartes some of the skills for Data Science and Software En
 * ##### Embedded Software Engineer 
 * ##### Software Architect
 ### 5- Sales Engineer
+### 6 - Middle-Tier Developer
+### 7 - Desktop Developer
 ## Note:
 Sometimes other job titles are employed to represent the same one from the aforementioned list or maybe changed a little bit to add a required specific skill to a particular job title.
 For example, Embedded Software Engineer is  Software Engineer who is able to work with embedded systems. 
