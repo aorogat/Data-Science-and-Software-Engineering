@@ -13,28 +13,31 @@ On this page, we give you the required courses to be a data scientist. It is ass
 
 ## Data
 ### Get Data
-#### Web Scrapping (Optional)
-
-#### Applied Data Structure
-
-
+During you are studing the Data Analyst package, you have get the required skills to read data from files and databases. If you need to get your data from web documnets, you have to take the following course.
+#### 1- Web Scrapping (Optional) [\[Youtube Playlist\]]()
+In that course, you will go through the HTML, CSS and JavaScript courses from the Web Designer package without details and learn how to extract data from these web files. 
+### Structure the Data
+#### 1- Applied Data Structure - Python [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-ICLzNwt5aAjnstOlqNgtqMJ)
+This level is application-oriented in which you will learn the main data structures like `List`, `Tree`, `Graph`, `Map`, `Set`, `Hashtable`, and `others` and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their corresponding operations. 
 ## Math
-#### Calculas
+#### 1- Calculas
 
-#### Linear Algebra
+#### 2- Linear Algebra
 
-#### Probability Theory
+#### 3- Probability Theory
 
-#### Optimization
+#### 4- Optimization
 
 
-## Problems
+## Data Problems
 #### Problem Solving
 
-#### Algorithms and Data Structure
+#### Algorithms and Theoretical Computer Science 
+The main reference for this course is the "Building Blocks for Theoretical Computer Science (Version 1.3) Margaret M. Fleck January 1, 2013" book. It is a very good book for undergraduate students to be a start for Theoretical illustration behind the Algorithms.
 
-#### Theoretical Computer Science 
-The main reference for this course is the "Building Blocks for Theoretical Computer Science (Version 1.3) Margaret M. Fleck January 1, 2013" book. It is a very good book for undergraduate students to be a start for Theoretical illustration behind the Algorithms. 
+#### Data Structure
+
+####  
 
 ## Machine Learning
 #### Statistical Machine Learning
