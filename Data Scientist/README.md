@@ -12,9 +12,11 @@ Yes, It is
 On this page, we give you the required courses to be a data scientist. It is assumed that you have the basic skills of a data analysis illustrated [here](https://github.com/aorogat/Data-Science-and-Software-Engineering/tree/master/Data%20Analyst). In other words you finished the following courses `Python Programming`, `Descriptive Statistics`, `Data Cleaning`, `Data Visualization`, `Database Level (1) – SQL - Python/SQL`, `Data Formats XML/JSON/…` and these libraries `Matplotlib`, `Numpy` and `Pandas`. 
 
 ## Data
+### Get Data
+#### Web Scrapping (Optional)
+
 #### Applied Data Structure
 
-#### Web Scrapping (Optional)
 
 ## Math
 #### Calculas
