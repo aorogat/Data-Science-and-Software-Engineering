@@ -1,4 +1,4 @@
-To be a Data Scientist, you have to be able to analyze your data and crack complex data problems with strong expertise in a certain scientific discipline (as coined by DJ Patil and Jeff Hammerbacher). Again, it is **data** + **complex data problems**. So the required skills can be summarized as follow
+To be a Data Scientist, you have to be able to analyze your data and crack complex data problems. Again, it is **data** + **complex data problems**. So the required skills can be summarized as follow
 * **Data**: Get, store (structure) and produce data.
 Yes, It is
   * Get data from files, databases, web documents or any other data source
