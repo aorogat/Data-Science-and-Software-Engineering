@@ -83,6 +83,8 @@ Databases courses usually have diverse topics for different skills such as Data 
 #### 3- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
 Sometimes data are not stored in a relational database, however, is stored in files with specific formats like XML, JSON and so on. Developers are expected to be able to handle such files.
 
+# Take a breath then continue 
+
 ## Useful Tools
 #### 1- Git and Github
 
