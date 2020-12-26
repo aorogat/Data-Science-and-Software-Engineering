@@ -87,7 +87,7 @@ Sometimes data are not stored in a relational database, however, is stored in fi
 #### 1- Git and Github
 
 ## Advanced topics
-#### 1- Network Programming (Socket, RMI)
+#### 1- Network Programming (Socket, RMI,  HTTP)
 #### 2- Framwork based Applications Introduction
 #### 3- J2EE frameworks in general and RESTful Web Service.
 #### 4- Spring Framwork 
