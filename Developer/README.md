@@ -90,8 +90,8 @@ Sometimes data are not stored in a relational database, however, is stored in fi
 #### 1- Network Programming (Socket, RMI,  HTTP)
 #### 2- Framwork based Applications Introduction
 #### 3- J2EE frameworks in general and RESTful Web Service.
-#### 4- Spring Framwork 
-#### 5- Spring Boot Framwork
+#### 4- Spring Framework 
+#### 5- Spring Boot Framework 
 #### 6- Java Persistence APIs(JPA) and Hibernate
 
 # Prepare your CV
