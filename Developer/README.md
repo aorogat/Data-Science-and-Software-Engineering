@@ -86,7 +86,12 @@ Sometimes data are not stored in a relational database, however, is stored in fi
 ## Useful Tools
 #### 1- Git and Github
 
-## Advanced topics
+## Java build automation tools 
+#### 1- Java without IDE
+#### 2- Ant, Gradle and Maven differences 
+#### 3- Maven in details 
+
+## Framework based Applications 
 #### 1- Network Programming (Socket, RMI,  HTTP)
 #### 2- Framwork based Applications Introduction
 #### 3- J2EE frameworks in general and RESTful Web Service.
