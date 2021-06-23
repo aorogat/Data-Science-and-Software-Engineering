@@ -47,7 +47,7 @@ In this level, I finalize the Python programming language by going through its d
 `Work with OS`, 
 `Some Tricks`.
 
-## Analysis series
+##  Exploratory Analysis 
 #### 1- Descriptive Statistics by Python [\[Youtube Playlist\]](https://www.youtube.com/watch?v=ZmSVoAyY1LM&list=PL73bE5x5W-ICemDprdzo0HibsFiUQIEM5)
 This is the first version of Descriptive analysis courses that is enough for Junior Data analysts. Seniors Data analysts must learn more about exploratory data analysis, confirmatory data analysis, data mining and multivariate statistics. 
 The topics covered are 
@@ -81,6 +81,10 @@ During the above courses, you have to finish the following libraries. Although t
 #### Matplotlib [\[Youtube Playlist\]]()
 #### Numpy [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IBnRfesDLHH9GpuPDfl1N-u)
 #### Pandas [\[Youtube Playlist\]]()
+
+## Data Mining and Applied Machine Learning for data analysis 
+ 
+
 
 # Prepare your CV
 * In parallel to the technical skills illustrated here, you have to enhace your ability in English, Presentations, Storytelling, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
