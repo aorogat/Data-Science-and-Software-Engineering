@@ -58,6 +58,9 @@ In this level, you will go through Java documentation. After that, you will lear
 `Some tricks`, 
 `J2SE packages in general.`
 
+#### 5- Network Programming (Socket, RMI,  HTTP)
+
+
 ## Desktop Applications series
 #### 1- Java - GUI - Swing [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
 The topics covered are 
@@ -73,6 +76,7 @@ After this level, you will be able to develop any desktop applications. There ar
 
 #### 2- Java - GUI - JavaFX [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IA8t-LdfAli-7uM9ctsZzrJ)
 After this level, you will be able to develop desktop applications with more features. 
+
 
 ## Data Acquisition and structure
 While Data acquisition means reading the data from its source, we mean by structure, how to organize such data in memory. Since Developers usually work on companies that have their data stored in databases, Developer recruiters expect your ability to read such data from their database. 
@@ -93,13 +97,20 @@ Sometimes data are not stored in a relational database, however, is stored in fi
 #### 2- Ant, Gradle and Maven differences 
 #### 3- Maven in details 
 
+
+## Software Engineering 
+#### 1- Design Patterns 
+Design patterns are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
+Although you don't need to design the system you are working on as the software engineer is in charge of that, you have to be able to understand the design to implement it. 
+This [link](https://refactoring.guru/design-patterns/java) is useful.
+
+
 ## Framework based Applications 
-#### 1- Network Programming (Socket, RMI,  HTTP)
-#### 2- Framwork based Applications Introduction
-#### 3- J2EE frameworks in general and RESTful Web Service.
-#### 4- Spring Framework 
-#### 5- Spring Boot Framework 
-#### 6- Java Persistence APIs(JPA) and Hibernate
+#### 1- Framwork based Applications Introduction
+#### 2- J2EE frameworks in general and RESTful Web Service.
+#### 3- Spring Framework 
+#### 4- Spring Boot Framework 
+#### 5- Java Persistence APIs(JPA) and Hibernate
 
 # Prepare your CV
 * In parallel to the technical skills illustrated here, you have to enhace your ability in English, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
