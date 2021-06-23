@@ -109,8 +109,8 @@ This [link](https://refactoring.guru/design-patterns/java) is useful.
 #### 1- Framework based Applications Introduction
 #### 2- J2EE frameworks in general and RESTful Web Service.
 #### 3- Java Persistence APIs(JPA) and Hibernate
-#### 4- Spring Framework 
-#### 5- Spring Boot Framework 
+#### 4- Spring Framework (J2EE applications)
+#### 5- Spring Boot Framework (RESTful Services)
 
 
 # Prepare your CV
