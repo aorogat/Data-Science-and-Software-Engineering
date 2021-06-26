@@ -86,7 +86,18 @@ During the above courses, you have to finish the following libraries. Although t
  Data mining implies an efficient and continuous method of recognizing and discovering hidden patterns and data throughout a huge dataset.
 
 ## Abstract Knowledge from Data Engineering packages 
-In this level you will study general knowledge about the methods and techniques used by Data Engineers to manage the data. This will help you communicate easily with Data Engineers and know the expectations from their side.
+In this level, you will study general knowledge about the methods and techniques used by Data Engineers to manage the data. This will help you communicate easily with Data Engineers and know the expectations from their side.
+
+#### Data Warehouse and Data Mart
+Tools like: 
+
+#### Big Data
+Tools like: Spark and Hadoop
+
+#### Data Lakes
+Tools like: Cloud based vs HDFS
+
+
 
 # Prepare your CV
 * In parallel to the technical skills illustrated here, you have to enhace your ability in English, Presentations, Storytelling, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
