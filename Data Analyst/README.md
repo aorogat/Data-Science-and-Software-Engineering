@@ -82,9 +82,11 @@ During the above courses, you have to finish the following libraries. Although t
 #### Numpy [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IBnRfesDLHH9GpuPDfl1N-u)
 #### Pandas [\[Youtube Playlist\]]()
 
-## Data Mining and Applied Machine Learning for data analysis 
- 
+## Data Mining 
+ Data mining implies an efficient and continuous method of recognizing and discovering hidden patterns and data throughout a huge dataset.
 
+## Abstract Knowledge from Data Engineering packages 
+In this level you will study general knowledge about the methods and techniques used by Data Engineers to manage the data. This will help you communicate easily with Data Engineers and know the expectations from their side.
 
 # Prepare your CV
 * In parallel to the technical skills illustrated here, you have to enhace your ability in English, Presentations, Storytelling, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
