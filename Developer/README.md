@@ -84,6 +84,8 @@ While Data acquisition means reading the data from its source, we mean by struct
 In this level, you will learn the main data structures like `List`, `Tree`, `Graph`, `Map`, `Set`, `Hashtable`, and `others` and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their corresponding operations. 
 #### 2- Database Level (1) – SQL - Java/SQL [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDErOUNGLYUXFcw2Tan_BAq)
 Databases courses usually have diverse topics for different skills such as Data Analysts, Developers and Data Engineers. In this course, you will just learn the skills that help you to create a database and access the data you need from the database.
+* Sample Database: [Chinook](https://www.sqlitetutorial.net/sqlite-sample-database/)
+* Sample Database: [Northwind](https://github.com/aorogat/northwind-SQLite3)
 #### 3- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
 Sometimes data are not stored in a relational database, however, is stored in files with specific formats like XML, JSON and so on. Developers are expected to be able to handle such files.
 
