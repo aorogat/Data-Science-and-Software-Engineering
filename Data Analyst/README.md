@@ -68,8 +68,8 @@ Although you have studied some basic data visualization through the *__Descripti
 Data acquisition means reading the data from its source. Since Data analyst usually works on companies that have their data stored in a database, Data Analyst recruiters expect your ability to read such data from their database. 
 #### 1- Database Level (1) – SQL - Python/SQL [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-IDErOUNGLYUXFcw2Tan_BAq)
 Databases courses usually have diverse topics for different skills such as Developers, Data Analysts and Data Engineers. In this course, you will learn complex SQL queries to access a database by Python code. 
-* [Sample Database: Chinook](https://www.sqlitetutorial.net/sqlite-sample-database/)
-* [Sample Database: ](https://github.com/aorogat/northwind-SQLite3)
+* Sample Database: [Chinook](https://www.sqlitetutorial.net/sqlite-sample-database/)
+* Sample Database: [Northwind](https://github.com/aorogat/northwind-SQLite3)
 #### 2- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
 Sometimes data are not stored in a relational database, however, is stored in files with specific formats like XML, JSON and so on. Data analysts are expected to be able to handle such files.
 ## Technologies series
