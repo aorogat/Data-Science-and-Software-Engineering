@@ -114,6 +114,8 @@ This [link](https://refactoring.guru/design-patterns/java) is useful.
 #### 4- Spring Framework (J2EE applications)
 #### 5- Spring Boot Framework (RESTful Services)
 
+## Faster Developers
+#### Functional Programming
 
 # Prepare your CV
 * In parallel to the technical skills illustrated here, you have to enhace your ability in English, Time Management, Team Work, Report Preparation and CV writing. Good Luck!!
