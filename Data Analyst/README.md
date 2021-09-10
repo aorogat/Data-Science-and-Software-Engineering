@@ -72,6 +72,7 @@ Databases courses usually have diverse topics for different skills such as Devel
 * Sample Database: [Northwind](https://github.com/aorogat/northwind-SQLite3)
 #### 2- Data Formats XML/JSON/… [\[Youtube Playlist\]]()
 Sometimes data are not stored in a relational database, however, is stored in files with specific formats like XML, JSON and so on. Data analysts are expected to be able to handle such files.
+This course it not a "NoSQL" course. NoSQL concept is important to the "Data Engineer" jobs.
 ## Technologies series
 One of the following courses is enough. These are the programs that help you in your work with less programming. I will not record these courses but give you links to courses in English. 
 
