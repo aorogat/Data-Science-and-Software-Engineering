@@ -39,6 +39,8 @@ In this tutorial, you will discover several job titles in the domain of data sci
 * ##### Embedded Software Engineer 
 * ##### Software Architect
 ### 5- Sales Engineer
+### 6 - Middle-Tier Developer
+### 7 - Desktop Developer
 ## Note:
 Sometimes other job titles are employed to represent the same one from the aforementioned list or maybe changed a little bit to add a required specific skill to a particular job title.
 For example, Embedded Software Engineer is  Software Engineer who is able to work with embedded systems. 
