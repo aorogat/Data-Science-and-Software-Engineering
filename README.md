@@ -1,8 +1,9 @@
 # Data Science and Software Engineering
-Welcome to the *_Data Science and Software Engineering_* page in which we illustrate the different jobs in these 2 fields of study. Any job is a combination of different skills. 
-If you would like to work with a specific job title, you have to have the required skills for that job.
-For example, Data Analysts are the persons who collect, clean, visualize data and extract insights from that data to support the decision-makers. To be eligible to do that, they must be prepared to generate programs with a specific programming language to fulfill some statistics and visualization on the data which requires a set of skills.
-In this tutorial, you will discover several job titles in the domain of data science and software engineering. While Java programming language is used for the lessons of software engineering, Python programming language is used for the data science courses. All the courses are recorded by an Arabic speaker.
+Welcome to the Data Science and Software Engineering page where we showcase the various job opportunities in these two fields of study. It is important to note that every job title involves a unique combination of different skills and competencies. For instance, Data Analysts are responsible for collecting, organizing, visualizing and extracting meaningful insights from data to assist decision-makers in their choices. To fulfill these tasks, they need to possess programming skills in a particular language, such as Python, as well as expertise in statistical analysis and data visualization techniques.
+
+This tutorial aims to provide a comprehensive overview of the various job titles available in the domains of Data Science and Software Engineering. To make the learning experience more engaging, the courses offered are taught using practical examples and hands-on exercises. For Software Engineering, Java programming language is used as the main tool, while Python is the preferred language for Data Science. All courses are recorded by an Arabic speaker, making it accessible for those who prefer to learn in that language.
+
+By the end of this tutorial, you will have a clear understanding of the different job roles and the required skill sets in Data Science and Software Engineering. Whether you are a beginner or looking to advance your career in these fields, this tutorial provides a valuable resource to help you achieve your goals.
 
 # Data Science and Engineering 
 ### 1- Data Analyst
