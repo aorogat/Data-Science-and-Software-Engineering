@@ -5,7 +5,7 @@ Yes, It is
   * Structure data in memory as list, tree, graph or any other data structure
   * Publish your results in a data destination
 * **Complex data problems**: solve problems, write algorithms, and analyze such algorithms.
-  * **Problem Solving:** You have to be aware of the basic methods and techniques for problem-solving as `Divide and Conquer`, `Means-ends analysis`, `Trial-and-error`, `Difference Reduction`, `Dynamic Programming`, `Randomized Algorithms` and other similar methods and techniques.
+  * **Problem Solving:** You have to be aware of the basic methods and techniques for problem-solving techniques.
   * **Algorithms:** Write algorithms and convert them to code by a specific programming language.
   * **Algorithms Analysis:**  Computational Complexity Theory and Computability, in general, provides an estimation for the required resources to solve a given problem and the ability to provide solutions for these problems in an effective manner respectively.
   
@@ -17,8 +17,28 @@ During you are studying the Data Analyst package, you have got the required skil
 #### 1- Web Scrapping (Optional) [\[Youtube Playlist\]]()
 In that course, you will go through the HTML, CSS and JavaScript courses from the Web Designer package without details and learn how to extract data from these web files. 
 ### Structure the Data
-#### 1- Applied Data Structure - Python [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-ICLzNwt5aAjnstOlqNgtqMJ)
+#### 1- Data Structure - Python [\[Youtube Playlist\]](https://www.youtube.com/playlist?list=PL73bE5x5W-ICLzNwt5aAjnstOlqNgtqMJ)
 This level is application-oriented in which you will learn the main data structures like `List`, `Tree`, `Graph`, `Map`, `Set`, `Hashtable`, and `others` and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their corresponding operations. 
+
+## Problem Solving (Coding Interview)
+### 1- Sliding Window Problems
+
+### 2- Dynamic Programming Problems
+
+### 3- Graph Problems (DFS, BFS, Union-Find)
+#### 3.1- Connected Nodes (Pointers) Problems
+
+#### 3.2- Grid Problems
+##### 3.2.1- Grid Problems (Try All Nodes)
+##### 3.2.2- Grid Problems (Simulatenous Start)
+* **Leetcode: 286. Walls and Gates**:
+* **Leetcode: 994. Rotting Oranges**:  
+#### 3.3- Word Problems (Need to Construct Graph from the problem statement)
+
+
+
+
+
 ## Math
 #### 1- Calculas
 
