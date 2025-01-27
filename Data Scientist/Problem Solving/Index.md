@@ -92,7 +92,7 @@ These problems involve grids, where each cell can be treated as a graph node con
 
 #### 3.2.1- Grid Problems (Try All Nodes)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/51be5e6c-5b88-4930-8486-de37d008632f" style="width: 30%;">
+  <img src="https://github.com/user-attachments/assets/51be5e6c-5b88-4930-8486-de37d008632f" style="width: 50%;">
 </p>
 
 - **Leetcode: 79. Word Search**: (Medium)
