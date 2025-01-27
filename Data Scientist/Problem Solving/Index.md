@@ -21,17 +21,6 @@ Content here.
 ---
 
 <details>
-<summary><strong>2- Dynamic Programming Problems</strong></summary>
-
-Dynamic Programming (DP) is an optimization technique used to solve problems by breaking them into smaller overlapping subproblems and solving each subproblem only once, storing its results.
-
-Content here.
-
-</details>
-
----
-
-<details>
 <summary><strong>3- Graph Problems (DFS, BFS, Topological Sort-DAG, Union-Find)</strong></summary>
 
 Graph problems involve understanding and solving tasks that can be represented as a network of nodes and edges.
@@ -73,3 +62,54 @@ These problems typically involve tasks that depend on one another, making topolo
 - **Leetcode: 269. Alien Dictionary**: (Hard)
 
 </details>
+
+
+---
+
+<details>
+<summary><strong>2- Dynamic Programming Problems</strong></summary>
+
+Dynamic Programming (DP) is a powerful optimization technique used to solve problems by breaking them into smaller overlapping subproblems, storing intermediate results, and reusing them to solve the larger problem efficiently.
+
+### Subcategories of Dynamic Programming Problems:
+
+#### 2.1- Knapsack-Type Problems
+Knapsack problems involve selecting items or subsets to optimize a given objective while satisfying certain constraints.
+
+- **2.1.1- 0/1 Knapsack Problems (Subset Selection)**
+  In these problems, each item can be included at most once, and the goal is to find a subset of items that satisfies a condition.
+  
+  Examples:
+  - Subset Sum
+  - Partition Equal Subset Sum
+
+- **2.1.2- Unbounded Knapsack Problems (0-k Items per Element)**
+  Items can be selected multiple times, and the task is to determine the number of times each item is required to satisfy a condition.
+
+  Examples:
+  - Coin Change Problem
+  - Rod Cutting Problem
+
+#### 2.2- Range-Based Problems
+These problems focus on solving tasks based on ranges of elements, often using intervals or windows.
+
+- **2.2.1- Consecutive Ranges**
+  Tasks involve checking or optimizing values over consecutive ranges.
+  - **Leetcode 139: Word Break Problem** (Medium): Determine if a string can be segmented into valid words from a dictionary.
+
+- **2.2.2- Nested Ranges**
+  Problems where ranges overlap or are nested within other ranges.
+
+- **2.2.3- In-Out Ranges**
+  These involve solving problems where information flows inward and outward from a range or point.
+  - **Leetcode: Longest Palindromic Substring** (Medium): Find the longest palindrome in a given string.
+
+- **2.2.4- Out-In Ranges**
+  Problems where information propagates outward first and then inward.
+  - **Leetcode: Minimum Number of Operations to Make a Palindrome** (Hard): Compute the minimum changes needed to transform a string into a palindrome.
+
+</details>
+
+
+---
+
