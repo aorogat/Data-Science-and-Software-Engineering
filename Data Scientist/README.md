@@ -21,7 +21,7 @@ In that course, you will go through the HTML, CSS and JavaScript courses from th
 This level is application-oriented in which you will learn the main data structures like `List`, `Tree`, `Graph`, `Map`, `Set`, `Hashtable`, and `others` and how to use them. This level does not include how these data structures built from Arrays and nodes as well as does not include the theoretical illustration of their corresponding operations. 
 
 ## Problem Solving (Coding Interview)
-Check (this page)[https://github.com/aorogat/Data-Science-and-Software-Engineering/blob/master/Data%20Scientist/Problem%20Solving/Index.md]
+Check [this page](https://github.com/aorogat/Data-Science-and-Software-Engineering/blob/master/Data%20Scientist/Problem%20Solving/Index.md)
 
 
 
