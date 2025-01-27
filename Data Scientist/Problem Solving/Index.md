@@ -78,14 +78,10 @@ These problems focus on solving tasks based on ranges of elements, often using i
 Graph problems involve understanding and solving tasks that can be represented as a network of nodes and edges.
 
 ## Algorithms Used in Graph Problems
-1. **Depth-First Search (DFS)**: Explores as far as possible along each branch before backtracking.
-   - [Explanation Video Link Placeholder]
-2. **Breadth-First Search (BFS)**: Explores all neighbors of a node level by level.
-   - [Explanation Video Link Placeholder]
-3. **Topological Sort (Directed Acyclic Graph - DAG)**: Linear ordering of vertices such that for every directed edge `u -> v`, `u` comes before `v`.
-   - [Explanation Video Link Placeholder]
-4. **Union-Find (Disjoint Set Union)**: Efficiently tracks connected components and detects cycles in undirected graphs.
-   - [Explanation Video Link Placeholder]
+1. **Depth-First Search (DFS)**: Explores as far as possible along each branch before backtracking. [Explanation Video Link Placeholder]
+2. **Breadth-First Search (BFS)**: Explores all neighbors of a node level by level. [Explanation Video Link Placeholder]
+3. **Topological Sort (Directed Acyclic Graph - DAG)**: Linear ordering of vertices such that for every directed edge `u -> v`, `u` comes before `v`. [Explanation Video Link Placeholder]
+4. **Union-Find (Disjoint Set Union)**: Efficiently tracks connected components and detects cycles in undirected graphs. [Explanation Video Link Placeholder]
 
 ### 3.1- Connected Nodes (Pointers) Problems
 In these problems, the nodes are connected using explicit pointers. The goal is to explore and clone, connect, or find relationships between the nodes.
@@ -95,6 +91,10 @@ In these problems, the nodes are connected using explicit pointers. The goal is 
 These problems involve grids, where each cell can be treated as a graph node connected to its neighbors.
 
 #### 3.2.1- Grid Problems (Try All Nodes)
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/cef5d7a2-c682-49ee-84b0-4902f45625ba](https://github.com/user-attachments/assets/20d53c0c-1866-4a1b-89dc-a497f2cff402)" style="width: 30%;">
+</p>
+
 - **Leetcode: 79. Word Search**: (Medium)
 - **Leetcode: 200. Number of Islands**:  (Medium)
 
