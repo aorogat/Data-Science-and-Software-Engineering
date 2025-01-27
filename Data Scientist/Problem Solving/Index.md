@@ -6,7 +6,10 @@
 <summary><strong>1- Sliding Window Problems</strong></summary>
 
 Sliding window problems involve solving problems by maintaining a "window" of elements within the input (like an array or string) and sliding it over the input to find the solution efficiently.
-![Sliding Window - Copy](https://github.com/user-attachments/assets/cef5d7a2-c682-49ee-84b0-4902f45625ba)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cef5d7a2-c682-49ee-84b0-4902f45625ba" alt="Sliding Window - Copy" style="width: 60%;">
+</p>
+
 
 
 ### 1.1- Fixed Length Window Problems
