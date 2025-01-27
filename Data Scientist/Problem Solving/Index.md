@@ -1,4 +1,4 @@
-## Problem Solving (Coding Interview)
+# Problem Solving (Coding Interview)
 
 ---
 
@@ -7,13 +7,13 @@
 
 Sliding window problems involve solving problems by maintaining a "window" of elements within the input (like an array or string) and sliding it over the input to find the solution efficiently.
 
-#### 1.1- Fixed Length Window Problems
+### 1.1- Fixed Length Window Problems
 Content here.
 
-#### 1.2- Minimum Length Window Problems
+### 1.2- Minimum Length Window Problems
 Content here.
 
-#### 1.3- Maximum Length Window Problems
+### 1.3- Maximum Length Window Problems
 Content here.
 
 </details>
@@ -36,7 +36,7 @@ Content here.
 
 Graph problems involve understanding and solving tasks that can be represented as a network of nodes and edges.
 
-#### Algorithms Used in Graph Problems
+## Algorithms Used in Graph Problems
 1. **Depth-First Search (DFS)**: Explores as far as possible along each branch before backtracking.
    - [Explanation Video Link Placeholder]
 2. **Breadth-First Search (BFS)**: Explores all neighbors of a node level by level.
@@ -46,18 +46,18 @@ Graph problems involve understanding and solving tasks that can be represented a
 4. **Union-Find (Disjoint Set Union)**: Efficiently tracks connected components and detects cycles in undirected graphs.
    - [Explanation Video Link Placeholder]
 
-#### 3.1- Connected Nodes (Pointers) Problems
+### 3.1- Connected Nodes (Pointers) Problems
 In these problems, the nodes are connected using explicit pointers. The goal is to explore and clone, connect, or find relationships between the nodes.
 - **Leetcode: 133. Clone Graph**: (Medium)
 
-#### 3.2- Grid Problems
+### 3.2- Grid Problems
 These problems involve grids, where each cell can be treated as a graph node connected to its neighbors.
 
-##### 3.2.1- Grid Problems (Try All Nodes)
+#### 3.2.1- Grid Problems (Try All Nodes)
 - **Leetcode: 79. Word Search**: (Medium)
 - **Leetcode: 200. Number of Islands**:  (Medium)
 
-##### 3.2.2- Grid Problems (Simultaneous Start)
+#### 3.2.2- Grid Problems (Simultaneous Start)
 - **Leetcode: 286. Walls and Gates**: (Medium)
 - **Leetcode: 994. Rotting Oranges**:  (Medium)
 
