@@ -64,7 +64,10 @@ These problems involve grids, where each cell can be treated as a graph node con
 #### 3.3- Word Problems (Need to Construct Graph from the Problem Statement)
 These problems require constructing a graph from the given data before applying algorithms.
 
-##### 3.3.1- Word Problems - Topological Sort (DAG)
+##### Word Problems - BFS
+- **Leetcode: 127. Word Ladder**: (Hard)
+- 
+##### Word Problems - Topological Sort (DAG)
 These problems typically involve tasks that depend on one another, making topological sorting essential.
 - **Leetcode: 207. Course Schedule**: (Medium)  
 - **Leetcode: 269. Alien Dictionary**: (Hard)
