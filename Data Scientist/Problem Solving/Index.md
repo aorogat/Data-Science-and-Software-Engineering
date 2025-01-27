@@ -1,29 +1,41 @@
-## Problem Solving (Coding Interview)
+<details>
+<summary><strong>1- Sliding Window Problems</strong></summary>
 
----
-
-### 1- Sliding Window Problems
 Sliding window problems involve solving problems by maintaining a "window" of elements within the input (like an array or string) and sliding it over the input to find the solution efficiently.
 
-#### 1.1- Fixed Length Window Problems
+<details>
+<summary><strong>1.1- Fixed Length Window Problems</strong></summary>
 Content here.
+</details>
 
-#### 1.2- Minimum Length Window Problems
+<details>
+<summary><strong>1.2- Minimum Length Window Problems</strong></summary>
 Content here.
+</details>
 
-#### 1.3- Maximum Length Window Problems
+<details>
+<summary><strong>1.3- Maximum Length Window Problems</strong></summary>
 Content here.
+</details>
+
+</details>
 
 ---
 
-### 2- Dynamic Programming Problems
+<details>
+<summary><strong>2- Dynamic Programming Problems</strong></summary>
+
 Dynamic Programming (DP) is an optimization technique used to solve problems by breaking them into smaller overlapping subproblems and solving each subproblem only once, storing its results.
 
 Content here.
 
+</details>
+
 ---
 
-### 3- Graph Problems (DFS, BFS, Topological Sort-DAG, Union-Find)
+<details>
+<summary><strong>3- Graph Problems (DFS, BFS, Topological Sort-DAG, Union-Find)</strong></summary>
+
 Graph problems involve understanding and solving tasks that can be represented as a network of nodes and edges.
 
 #### Algorithms Used in Graph Problems
@@ -36,24 +48,30 @@ Graph problems involve understanding and solving tasks that can be represented a
 4. **Union-Find (Disjoint Set Union)**: Efficiently tracks connected components and detects cycles in undirected graphs.
    - [Explanation Video Link Placeholder]
 
-#### 3.1- Connected Nodes (Pointers) Problems
+<details>
+<summary><strong>3.1- Connected Nodes (Pointers) Problems</strong></summary>
 In these problems, the nodes are connected using explicit pointers. The goal is to explore and clone, connect, or find relationships between the nodes.
 - **Leetcode: 133. Clone Graph**: (Medium)
+</details>
 
-#### 3.2- Grid Problems
+<details>
+<summary><strong>3.2- Grid Problems</strong></summary>
+
 These problems involve grids, where each cell can be treated as a graph node connected to its neighbors.
 
 ##### 3.2.1- Grid Problems (Try All Nodes)
-In these problems, you start from all possible nodes and explore.
 - **Leetcode: 79. Word Search**: (Medium)
 - **Leetcode: 200. Number of Islands**:  (Medium)
 
 ##### 3.2.2- Grid Problems (Simultaneous Start)
-In these problems, you start from specific nodes simultaneously (multi-source BFS).
 - **Leetcode: 286. Walls and Gates**: (Medium)
 - **Leetcode: 994. Rotting Oranges**:  (Medium)
 
-#### 3.3- Word Problems (Need to Construct Graph from the Problem Statement)
+</details>
+
+<details>
+<summary><strong>3.3- Word Problems (Need to Construct Graph from the Problem Statement)</strong></summary>
+
 These problems require constructing a graph from the given data before applying algorithms.
 
 ##### 3.3.1- Word Problems - Topological Sort (DAG)
@@ -61,5 +79,6 @@ These problems typically involve tasks that depend on one another, making topolo
 - **Leetcode: 207. Course Schedule**: (Medium)  
 - **Leetcode: 269. Alien Dictionary**: (Hard)
 
----
+</details>
 
+</details>
