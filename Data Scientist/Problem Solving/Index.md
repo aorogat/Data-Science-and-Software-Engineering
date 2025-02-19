@@ -134,7 +134,6 @@ This category of problems requires designing and implementing new data structure
 - **Leetcode 146: LRU Cache** (Medium):  
 </details>
 
-# LeetCode Problem  
 # LeetCode Problem
 
-![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat&scale=0.8)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat&scale=0.8)
+![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)
