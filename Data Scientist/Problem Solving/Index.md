@@ -136,12 +136,7 @@ This category of problems requires designing and implementing new data structure
 
 # LeetCode Problem  
 
-<div style="display: flex; align-items: center; gap: 10px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 400px;">
+# LeetCode Problem
 
-  <h2 style="margin: 0;">1020. Number of Enclaves</h2>
-  
-  <span style="padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold; font-size: 14px; text-transform: uppercase; background-color: orange;">
-    Medium
-  </span>
-
-</div>
+![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=for-the-badge)  
+![Difficulty](https://img.shields.io/badge/Medium-orange?style=for-the-badge)
