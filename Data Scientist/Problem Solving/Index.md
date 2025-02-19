@@ -135,6 +135,6 @@ This category of problems requires designing and implementing new data structure
 </details>
 
 # LeetCode Problem  
+# LeetCode Problem
 
-![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=for-the-badge) ![Difficulty](https://img.shields.io/badge/Medium-orange?style=for-the-badge)
-
+![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat&scale=0.8)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat&scale=0.8)
