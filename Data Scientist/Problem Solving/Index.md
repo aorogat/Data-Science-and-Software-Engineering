@@ -134,3 +134,7 @@ This category of problems requires designing and implementing new data structure
 - **Leetcode 146: LRU Cache** (Medium):  
 </details>
 
+<div style="display: flex; align-items: center; gap: 10px; background: white; padding: 15px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <h2 style="margin: 0;">1020. Number of Enclaves</h2>
+        <span style="padding: 5px 10px; border-radius: 5px; color: white; font-weight: bold; font-size: 14px; text-transform: uppercase; background-color: orange;">Medium</span>
+    </div>
