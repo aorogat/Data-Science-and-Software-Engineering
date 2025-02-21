@@ -90,8 +90,7 @@ In these problems, the nodes are connected using explicit pointers. The goal is 
 ### 3.2- Grid Problems
 These problems involve grids, where each cell can be treated as a graph node connected to its neighbors.
 
-| ![Problem](https://github.com/user-attachments/assets/51be5e6c-5b88-4930-8486-de37d008632f) | ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)
- | 
+| ![Problem](https://github.com/user-attachments/assets/51be5e6c-5b88-4930-8486-de37d008632f) | ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | 
 
 
 
