@@ -92,20 +92,8 @@ These problems involve grids, where each cell can be treated as a graph node con
 
 #### 3.2.1- Grid Problems
 
-| ![Problem](https://github.com/user-attachments/assets/51be5e6c-5b88-4930-8486-de37d008632f) | In this lesson you will learn how to solve grid version of graph problems that require DFS traversal. Examples solved are as follow ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) |
+| ![Problem](https://github.com/user-attachments/assets/51be5e6c-5b88-4930-8486-de37d008632f) | In this lesson you will learn how to solve grid version of graph problems that require DFS traversal. Examples solved are as follow ![Problem](https://img.shields.io/badge/733.%20Flood%20Fill-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square)  ![Problem](https://img.shields.io/badge/200.%20Number%20of%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) ![Problem](https://img.shields.io/badge/130.%20Surrounded%20Regions-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  ![Problem](https://img.shields.io/badge/1905.%20Count%20Sub%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  ![Problem](https://img.shields.io/badge/490.%20The%20Maze-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) ![Problem](https://img.shields.io/badge/827.%20Making%20A%20Large%20Island-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Hard-red?style=flat-square)   ![Problem](https://img.shields.io/badge/417.%20Pacific%20Atlantic%20Water%20Flow-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)   |
 | --- | --- |
-
-| Problem | Description |
-| --- | --- |
-| ![Problem](https://img.shields.io/badge/733.%20Flood%20Fill-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) | Flood Fill (Easy) |
-| ![Problem](https://img.shields.io/badge/200.%20Number%20of%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Number of Islands (Medium) |
-| ![Problem](https://img.shields.io/badge/130.%20Surrounded%20Regions-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Surrounded Regions (Medium) |
-| ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Number of Enclaves (Medium) |
-| ![Problem](https://img.shields.io/badge/1905.%20Count%20Sub%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Count Sub Islands (Medium) |
-| ![Problem](https://img.shields.io/badge/490.%20The%20Maze-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | The Maze (Medium) |
-| ![Problem](https://img.shields.io/badge/827.%20Making%20A%20Large%20Island-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Hard-red?style=flat-square) | Making A Large Island (Hard) |
-| ![Problem](https://img.shields.io/badge/417.%20Pacific%20Atlantic%20Water%20Flow-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Pacific Atlantic Water Flow (Medium) |
-
 
 
 
