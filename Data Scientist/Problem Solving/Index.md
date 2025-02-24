@@ -144,13 +144,7 @@ Backtracking is a general algorithmic technique used for solving problems recurs
 ### 4.1- Permutation and Combination Problems
 | Problem | Description |
 | :---: | :--- |
-| ![Backtracking-Copy-ezgif com-crop](https://github.com/user-attachments/assets/619190b2-8f04-45b1-9f7b-1b768215ac02) | In this lesson you will learn how to solve problems that involve generating all possible arrangements (permutations) or selections (combinations) of given elements.   ![Problem](https://img.shields.io/badge/90.%20Subsets%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br>
-![Problem](https://img.shields.io/badge/77.%20Combinations-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br>
-![Problem](https://img.shields.io/badge/39.%20Combination%20Sum-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br>
-![Problem](https://img.shields.io/badge/40.%20Combination%20Sum%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br>
-![Problem](https://img.shields.io/badge/46.%20Permutations-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br>
-![Problem](https://img.shields.io/badge/47.%20Permutations%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br>
-|
+| ![Backtracking-Copy-ezgif com-crop](https://github.com/user-attachments/assets/619190b2-8f04-45b1-9f7b-1b768215ac02) | In this lesson you will learn how to solve problems that involve generating all possible arrangements (permutations) or selections (combinations) of given elements.   ![Problem](https://img.shields.io/badge/90.%20Subsets%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/77.%20Combinations-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/39.%20Combination%20Sum-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/40.%20Combination%20Sum%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/46.%20Permutations-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/47.%20Permutations%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> |
 
 These problems involve generating all possible arrangements (permutations) or selections (combinations) of given elements.
 
