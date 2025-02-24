@@ -146,13 +146,6 @@ Backtracking is a general algorithmic technique used for solving problems recurs
 | :---: | :--- |
 | ![Backtracking-Copy-ezgif com-crop](https://github.com/user-attachments/assets/619190b2-8f04-45b1-9f7b-1b768215ac02) | In this lesson you will learn how to solve problems that involve generating all possible arrangements (permutations) or selections (combinations) of given elements. <br>  ![Problem](https://img.shields.io/badge/78.%20Subsets-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/90.%20Subsets%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/77.%20Combinations-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/39.%20Combination%20Sum-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/40.%20Combination%20Sum%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/46.%20Permutations-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/47.%20Permutations%20II-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> |
 
-These problems involve generating all possible arrangements (permutations) or selections (combinations) of given elements.
-
-- **Leetcode 46: Permutations** (Medium) - Generate all possible orderings of numbers.
-- **Leetcode 47: Permutations II** (Medium) - Handle duplicate numbers in permutations.
-- **Leetcode 77: Combinations** (Medium) - Find all subsets of a given size.
-- **Leetcode 78: Subsets** (Medium) - Generate all possible subsets of an array.
-
 ---
 
 ### 4.2- Constraint Satisfaction Problems
@@ -165,7 +158,10 @@ These problems require finding solutions while satisfying certain constraints.
 ---
 
 ### 4.3- Path Finding in Grids (Backtracking on Matrices)
-These problems involve exploring grids while following movement constraints.
+| Problem | Description |
+| :---: | :--- |
+| ![Backtracking-Copy-ezgif com-crop](https://github.com/user-attachments/assets/7f9b4477-a28d-4684-9b8f-d30089c27b0a)  | In this lesson you will learn how to solve problems that involve exploring grids while following movement constraints. <br>    <br> |
+
 
 - **Leetcode 79: Word Search** (Medium) - Search for words in a 2D board.
 - **Leetcode 130: Surrounded Regions** (Medium) - Capture surrounded regions in a grid.
