@@ -160,7 +160,7 @@ These problems require finding solutions while satisfying certain constraints.
 ### 4.3- Path Finding in Grids (Backtracking on Matrices)
 | Problem | Description |
 | :---: | :--- |
-| ![Backtracking-Copy-ezgif com-crop](https://github.com/user-attachments/assets/7f9b4477-a28d-4684-9b8f-d30089c27b0a)  | In this lesson you will learn how to solve problems that involve exploring grids while following movement constraints. <br>    <br> |
+|  ![Backtracking-grid-ezgif com-crop](https://github.com/user-attachments/assets/f6c24eb7-614b-4005-a98d-2c8d91b84dc2) | In this lesson you will learn how to solve problems that involve exploring grids while following movement constraints. <br>    <br> |
 
 
 - **Leetcode 79: Word Search** (Medium) - Search for words in a 2D board.
