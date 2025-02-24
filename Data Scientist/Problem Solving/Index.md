@@ -142,6 +142,10 @@ Backtracking is a general algorithmic technique used for solving problems recurs
 ---
 
 ### 4.1- Permutation and Combination Problems
+| Problem | Description |
+| :---: | :--- |
+| ![Backtracking-Copy-ezgif com-crop](https://github.com/user-attachments/assets/619190b2-8f04-45b1-9f7b-1b768215ac02) | In this lesson you will learn how to ...   |
+
 These problems involve generating all possible arrangements (permutations) or selections (combinations) of given elements.
 
 - **Leetcode 46: Permutations** (Medium) - Generate all possible orderings of numbers.
