@@ -90,20 +90,27 @@ In these problems, the nodes are connected using explicit pointers. The goal is 
 ### 3.2- Grid Problems
 These problems involve grids, where each cell can be treated as a graph node connected to its neighbors.
 
-#### 3.2.1- Grid Problems
+#### 3.2.1- DFS Grid Problems
 
 | Problem | Description |
 | :---: | :--- |
-| ![NewMicrosoftPowerPointPresentation-ezgif com-crop (1)](https://github.com/user-attachments/assets/11e69e75-f83b-4fa7-9e59-0cff860c1702) | In this lesson, you will learn how to solve grid-based versions of graph problems that require DFS traversal. Examples solved are as follows: <br> ![Problem](https://img.shields.io/badge/733.%20Flood%20Fill-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) ![Problem](https://img.shields.io/badge/200.%20Number%20of%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) ![Problem](https://img.shields.io/badge/130.%20Surrounded%20Regions-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) ![Problem](https://img.shields.io/badge/1905.%20Count%20Sub%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) ![Problem](https://img.shields.io/badge/490.%20The%20Maze-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) ![Problem](https://img.shields.io/badge/827.%20Making%20A%20Large%20Island-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Hard-red?style=flat-square) ![Problem](https://img.shields.io/badge/417.%20Pacific%20Atlantic%20Water%20Flow-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) |
+| ![NewMicrosoftPowerPointPresentation-ezgif com-crop (1)](https://github.com/user-attachments/assets/11e69e75-f83b-4fa7-9e59-0cff860c1702) | In this lesson, you will learn how to solve grid-based versions of graph problems that require DFS traversal. Examples solved are as follows: <br>  
+| ![Problem](https://img.shields.io/badge/733.%20Flood%20Fill-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) | Flood Fill |
+| ![Problem](https://img.shields.io/badge/200.%20Number%20of%20Islands-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Number of Islands |
+| ![Problem](https://img.shields.io/badge/130.%20Surrounded%20Regions-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Surrounded Regions |
+| ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Number of Enclaves |
+| ![Problem](https://img.shields.io/badge/1905.%20Count%20Sub%20Islands-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Count Sub Islands |
+| ![Problem](https://img.shields.io/badge/490.%20The%20Maze-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | The Maze |
+| ![Problem](https://img.shields.io/badge/827.%20Making%20A%20Large%20Island-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Hard-red?style=flat-square) | Making A Large Island |
+| ![Problem](https://img.shields.io/badge/417.%20Pacific%20Atlantic%20Water%20Flow-blue?style=flat-square) ![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) | Pacific Atlantic Water Flow |
+
 
 
 
 
 #### 3.2.1- Grid Problems
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/51be5e6c-5b88-4930-8486-de37d008632f" style="width: 50%;">
-</p>
+
 
 - **Leetcode: 79. Word Search**: (Medium)
 - **Leetcode: 200. Number of Islands**:  (Medium)
