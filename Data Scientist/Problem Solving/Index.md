@@ -130,7 +130,60 @@ These problems typically involve tasks that depend on one another, making topolo
 
 
 <details>
-<summary><strong>4- Data Structure Building Problems</strong></summary>
+<summary><strong>4- Backtracking Problems</strong></summary>
+
+Backtracking is a general algorithmic technique used for solving problems recursively by building a solution incrementally and removing those that fail to satisfy the constraints.
+
+## Key Concepts of Backtracking:
+1. **Recursive Exploration**: Try all possible options recursively.
+2. **Pruning (Early Termination)**: Stop exploring paths that violate constraints.
+3. **Backtrack (Undo Step)**: Remove the last choice and explore other possibilities.
+
+---
+
+### 4.1- Permutation and Combination Problems
+These problems involve generating all possible arrangements (permutations) or selections (combinations) of given elements.
+
+- **Leetcode 46: Permutations** (Medium) - Generate all possible orderings of numbers.
+- **Leetcode 47: Permutations II** (Medium) - Handle duplicate numbers in permutations.
+- **Leetcode 77: Combinations** (Medium) - Find all subsets of a given size.
+- **Leetcode 78: Subsets** (Medium) - Generate all possible subsets of an array.
+
+---
+
+### 4.2- Constraint Satisfaction Problems
+These problems require finding solutions while satisfying certain constraints.
+
+- **Leetcode 51: N-Queens** (Hard) - Place N queens on an NxN chessboard without attacking each other.
+- **Leetcode 37: Sudoku Solver** (Hard) - Fill a 9x9 Sudoku grid following game rules.
+- **Leetcode 526: Beautiful Arrangement** (Medium) - Count arrangements where numbers satisfy divisibility constraints.
+
+---
+
+### 4.3- Path Finding in Grids (Backtracking on Matrices)
+These problems involve exploring grids while following movement constraints.
+
+- **Leetcode 79: Word Search** (Medium) - Search for words in a 2D board.
+- **Leetcode 130: Surrounded Regions** (Medium) - Capture surrounded regions in a grid.
+- **Leetcode 212: Word Search II** (Hard) - Find multiple words in a 2D board.
+
+---
+
+### 4.4- Expression and Partitioning Problems
+These involve forming valid expressions or dividing elements into valid groups.
+
+- **Leetcode 282: Expression Add Operators** (Hard) - Insert operators to get a target value.
+- **Leetcode 131: Palindrome Partitioning** (Medium) - Partition a string into palindromes.
+- **Leetcode 698: Partition to K Equal Sum Subsets** (Medium) - Divide an array into k subsets with equal sums.
+
+</details>
+
+
+---
+
+
+<details>
+<summary><strong>5- Data Structure Building Problems</strong></summary>
 
 This category of problems requires designing and implementing new data structures to meet specific requirements. These problems often involve combining or modifying basic data structures such as arrays, hash maps, linked lists, heaps, or queues to achieve the desired functionality.
 
