@@ -1,33 +1,38 @@
-### 3.2.1 - DFS Grid Problems
+### Tree Traversal
 
 | Problem | Description |
 | :---: | :--- |
-| ![NewMicrosoftPowerPointPresentation-ezgif com-crop (1)](https://github.com/user-attachments/assets/11e69e75-f83b-4fa7-9e59-0cff860c1702) | In this lesson, you will learn how to solve grid versions of graph problems that require DFS traversal. Examples solved are as follows: <br> ![Problem](https://img.shields.io/badge/733.%20Flood%20Fill-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> ![Problem](https://img.shields.io/badge/200.%20Number%20of%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) <br> ![Problem](https://img.shields.io/badge/130.%20Surrounded%20Regions-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square)  <br> ![Problem](https://img.shields.io/badge/1020.%20Number%20of%20Enclaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) <br> ![Problem](https://img.shields.io/badge/1905.%20Count%20Sub%20Islands-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) <br> ![Problem](https://img.shields.io/badge/490.%20The%20Maze-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) <br> ![Problem](https://img.shields.io/badge/827.%20Making%20A%20Large%20Island-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Hard-red?style=flat-square) <br> ![Problem](https://img.shields.io/badge/417.%20Pacific%20Atlantic%20Water%20Flow-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Medium-orange?style=flat-square) |
+| ![Problem](https://img.shields.io/badge/144.-Binary_Tree_Preorder_Traversal-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Preorder traversal of a binary tree. |
+| ![Problem](https://img.shields.io/badge/94.-Binary_Tree_Inorder_Traversal-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Inorder traversal of a binary tree. |
+| ![Problem](https://img.shields.io/badge/145.-Binary_Tree_Postorder_Traversal-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Postorder traversal of a binary tree. |
 
----
+### Bottom-up Computation
 
-### Categories for DFS Problems
-
-#### 1. DFS for Binary Tree
-
-| Image | Problems |
+| Problem | Description |
 | :---: | :--- |
-| ![Tree Traversal](https://via.placeholder.com/100) | - [733. Flood Fill](https://leetcode.com/problems/flood-fill/) <br> - [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) <br> - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) |
-| ![Bottom-up Computation](https://via.placeholder.com/100) | - [1020. Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) <br> - [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/) |
-| ![Top-down + Bottom-up Computation](https://via.placeholder.com/100) | - [490. The Maze](https://leetcode.com/problems/the-maze/) <br> - [827. Making a Large Island](https://leetcode.com/problems/making-a-large-island/) |
-| ![Accumulative Global Variable Only](https://via.placeholder.com/100) | - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |
+| ![Problem](https://img.shields.io/badge/111.-Minimum_Depth_of_Binary_Tree-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Find the minimum depth of a binary tree. |
+| ![Problem](https://img.shields.io/badge/104.-Maximum_Depth_of_Binary_Tree-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Find the maximum depth of a binary tree. |
+| ![Problem](https://img.shields.io/badge/543.-Diameter_of_Binary_Tree-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Compute the diameter of a binary tree. |
+| ![Problem](https://img.shields.io/badge/110.-Balanced_Binary_Tree-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Check if a binary tree is balanced. |
+| ![Problem](https://img.shields.io/badge/965.-Univalued_Binary_Tree-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Check if a binary tree is univalued. |
 
-#### 2. DFS for N-ary Trees
-| Image | Problems |
-| :---: | :--- |
-| ![Placeholder](https://via.placeholder.com/100) | - *Subcategories coming soon.* |
+### Top-down Information Pass + Bottom-up Computation
 
-#### 3. DFS for Graph
-| Image | Problems |
+| Problem | Description |
 | :---: | :--- |
-| ![Placeholder](https://via.placeholder.com/100) | - *Subcategories coming soon.* |
+| ![Problem](https://img.shields.io/badge/637.-Average_of_Levels_in_Binary_Tree-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Compute the average of levels in a binary tree. |
+| ![Problem](https://img.shields.io/badge/1022.-Sum_of_Root_To_Leaf_Binary_Numbers-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Sum of root-to-leaf binary numbers. |
+| ![Problem](https://img.shields.io/badge/112.-Path_Sum-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Check if there is a path with a given sum. |
+| ![Problem](https://img.shields.io/badge/404.-Sum_of_Left_Leaves-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Sum of left leaves in a binary tree. |
 
-#### 4. DFS for Graph Grid
-| Image | Problems |
+### Accumulative Global Variable Only
+
+| Problem | Description |
 | :---: | :--- |
-| ![Placeholder](https://via.placeholder.com/100) | - *Subcategories coming soon.* |
+| ![Problem](https://img.shields.io/badge/671.-Second_Minimum_Node_In_a_Binary_Tree-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Find the second minimum node in a binary tree. |
+
+### Accumulative Global Variable + Bottom-up Computation
+
+| Problem | Description |
+| :---: | :--- |
+| ![Problem](https://img.shields.io/badge/563.-Binary_Tree_Tilt-blue?style=flat-square)![Difficulty](https://img.shields.io/badge/Easy-green?style=flat-square) <br> | Compute the tilt of a binary tree. |
